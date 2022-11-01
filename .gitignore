@@ -1,0 +1,12 @@
+.DS_Store
+/AEN_TowerDefense/.vscode/
+/AEN_TowerDefense/Library/
+/AEN_TowerDefense/Logs/
+/AEN_TowerDefense/obj/
+/AEN_TowerDefense/Packages/
+/AEN_TowerDefense/Temp/
+/AEN_TowerDefense/UserSettings/
+/AEN_TowerDefense/AEN_TowerDefense.sln
+/AEN_TowerDefense/Assembly-CSharp.csproj
+/AEN_TowerDefense/mono_crash.*
+/Builds/
