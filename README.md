@@ -28,9 +28,8 @@ https://github.com/Brackeys
 <p display="inline">
   <img src="images/AEN-towerdefense-1.png" width="33%"/>
   <img src="images/AEN-towerdefense-2.png" width="33%" />
+  <img src="images/AEN-towerdefense-3.png" width="33%" />
+  <img src="images/AEN-towerdefense-4.png" width="33%" />
+  <img src="images/AEN-towerdefense-5.png" width="33%" />
+  <img src="images/AEN-towerdefense-6.png" width="33%" />
 </p>
-
-<!-- 
-| ![AEN Tower Defense Game Image 1](images/AEN-towerdefense-1.png) | ![AEN Tower Defense Game Image 2]() |
-| ![AEN Tower Defense Game Image 3](images/AEN-towerdefense-3.png) | ![AEN Tower Defense Game Image 4](images/AEN-towerdefense-4.png) |
-| ![AEN Tower Defense Game Image 5](images/AEN-towerdefense-5.png) | ![AEN Tower Defense Game Image 6](images/AEN-towerdefense-6.png) | -->
