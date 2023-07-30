@@ -22,3 +22,10 @@ https://github.com/Brackeys
 - Use W, A, S, D to move around, Q to zoom out, E to zoom in.
 - Use your mouse to select a turret and click on any avaliable node on the field to build it.
 - You can switch to mouse mode to control the movement with mouse by pressing escape key. When this mode is active, you can move your mouse to the screen borders to move. Or you can zoom in and out with your mouse scrollwheel.
+
+## Snapshots
+
+| :-: | :-: |
+| ![AEN Tower Defense Game Image 1](images/AEN-towerdefense-1.png) | ![AEN Tower Defense Game Image 2](images/AEN-towerdefense-2.png) |
+| ![AEN Tower Defense Game Image 3](images/AEN-towerdefense-3.png) | ![AEN Tower Defense Game Image 4](images/AEN-towerdefense-4.png) |
+| ![AEN Tower Defense Game Image 5](images/AEN-towerdefense-5.png) | ![AEN Tower Defense Game Image 6](images/AEN-towerdefense-6.png) |
