@@ -25,7 +25,7 @@ https://github.com/Brackeys
 
 ## Snapshots
 
-![AEN Tower Defense Game Image 1](images/AEN-towerdefense-1.png)
+![AEN Tower Defense Game Image 1](images/AEN-towerdefense-1.png 'Home Screen')
 ![AEN Tower Defense Game Image 2](images/AEN-towerdefense-2.png)
 ![AEN Tower Defense Game Image 3](images/AEN-towerdefense-3.png)
 ![AEN Tower Defense Game Image 4](images/AEN-towerdefense-4.png)
