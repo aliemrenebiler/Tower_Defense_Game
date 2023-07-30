@@ -25,11 +25,11 @@ https://github.com/Brackeys
 
 ## Snapshots
 
-<p display="inline">
-  <img src="images/AEN-towerdefense-1.png" width="33%"/>
-  <img src="images/AEN-towerdefense-2.png" width="33%" />
-  <img src="images/AEN-towerdefense-3.png" width="33%" />
-  <img src="images/AEN-towerdefense-4.png" width="33%" />
-  <img src="images/AEN-towerdefense-5.png" width="33%" />
-  <img src="images/AEN-towerdefense-6.png" width="33%" />
+<p display="inline" height="200px">
+  <img src="images/AEN-towerdefense-1.png" />
+  <img src="images/AEN-towerdefense-2.png" />
+  <img src="images/AEN-towerdefense-3.png" />
+  <img src="images/AEN-towerdefense-4.png" />
+  <img src="images/AEN-towerdefense-5.png" />
+  <img src="images/AEN-towerdefense-6.png" />
 </p>
