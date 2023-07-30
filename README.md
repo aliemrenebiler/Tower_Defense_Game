@@ -25,9 +25,9 @@ https://github.com/Brackeys
 
 ## Snapshots
 
-<p display="inline-block">
-  <img src="images/AEN-towerdefense-1.png" width="50%"/>
-  <img src="images/AEN-towerdefense-2.png" width="50%" />
+<p display="inline">
+  <img src="images/AEN-towerdefense-1.png" width="33%"/>
+  <img src="images/AEN-towerdefense-2.png" width="33%" />
 </p>
 
 <!-- 
